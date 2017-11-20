@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "655978151590",
+    "firebase_url": "https://projet-innovation.firebaseio.com",
+    "project_id": "projet-innovation",
+    "storage_bucket": "projet-innovation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655978151590:android:e6d9d7043abfe96c",
+        "android_client_info": {
+          "package_name": "com.example.zhanghuakai.innovation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655978151590-cvqrn71i8nj5ifl52lb3si34eg7okhos.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zhanghuakai.innovation",
+            "certificate_hash": "a289faf8f1415c7d44801240e42c32d718588534"
+          }
+        },
+        {
+          "client_id": "655978151590-j9ta7sqg7lekfbuun8lo7hqu8l5lg8mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYigLmWYdBwdZ8jNqK1gV4QBNGyR5ViMg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655978151590-j9ta7sqg7lekfbuun8lo7hqu8l5lg8mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
